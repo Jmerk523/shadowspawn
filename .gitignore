@@ -8,3 +8,6 @@ ipch
 x64
 bin
 *~
+
+/src/tmp/
+/src/.vs/
